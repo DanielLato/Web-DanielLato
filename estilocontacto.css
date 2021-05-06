@@ -1,0 +1,42 @@
+* {
+    background: color #FDFEFE ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  nav li a:hover {
+    background-color: #FF5733;
+    color: white;
+  
+  }
+  
+  footer {
+    padding: 1em;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    clear: both;
+  }
+  
+  footer ul{
+      list-style: none;
+        padding: 1;
+        margin: 0;
+        display: flex;
+     justify-content:space-between;
+    background: #FF5733;
+  
+  }
+  
+  footer li  {
+    color: white;
+    display: block;
+    text-decoration: none;
+    background-color: #FF5733;
+  }
+  
+  form{
+    float: left;
+    text-align: left;
+    height: 300px;
+    width: 650px;
+  }
+  
